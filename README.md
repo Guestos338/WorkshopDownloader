@@ -1,7 +1,5 @@
 # 🎨 Wallpaper Engine Workshop Downloader
 
-> Created and maintained by **Guest**  
-> © 2025 Guest. All rights reserved.
 
 A powerful, user-friendly tool to download and manage Wallpaper Engine workshop wallpapers.  
 Includes preview, bulk download, and cleanup support.
@@ -26,8 +24,8 @@ Includes preview, bulk download, and cleanup support.
 - Internet access for Steam login
 
 ### To Run:
-1. Download the EXE from the [Releases](#) tab  
-2. Double-click to launch  
+1. Download the rar from the [Releases](#) tab  
+2. Extract Then Double Click Main to launch  
 3. Paste workshop links and hit **Download**
 
 ---
