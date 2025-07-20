@@ -18,14 +18,6 @@ Includes preview, bulk download, and cleanup support.
 
 ---
 
-## 📷 Screenshot
-
-*(Insert screenshot here)*  
-> You can upload one and link it like:  
-> `![screenshot](images/screenshot.png)`
-
----
-
 ## 🚀 Getting Started
 
 ### Requirements:
